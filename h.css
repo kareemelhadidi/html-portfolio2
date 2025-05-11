@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(100, 27, 46);
+}
+h1 {
+    text-align: center;
+    color: rgb(251, 219, 147);
+}
+h2 {
+    margin-top: 0px;
+    color: white;
+}
+#so {
+    margin-top: 200px;
+    margin-left: 10px;
+    font-size: 3rem;
+}
+div > div {
+    text-align: center;
+    width: 350px;
+    height: 110px;
+    position: relative;
+    left: 570px;
+}
+#ho {
+    position: absolute;
+    top: 315px;
+    color: white;
+}
+#po {
+    margin-left: 10px;
+}
+a {
+    text-decoration: none;
+}
+a :hover {
+    color: rgb(138, 45, 59);
+}

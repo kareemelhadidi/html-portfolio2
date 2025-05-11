@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+}
+.lo {
+    
+    color: rgb(251, 219, 147);
+    background-color: rgb(100, 27, 46);
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+.t1 {
+    display: inline-block;
+    width: 1150px;
+    margin-left: 20px;
+    color: rgb(251, 219, 147);
+}
+.t2 {
+    display: inline-block;
+    width: 150px;
+    color: rgb(251, 219, 147);
+}
+.t3 {
+    display: inline-block;
+    color: rgb(251, 219, 147);
+}
